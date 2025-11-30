@@ -11,9 +11,6 @@ TI 24 A1
 1. Membuka text editor (VSCode).
 2. Membuat folder baru dengan nama **lab10_php_oop** di dalam direktori **htdocs**.
 
-### Screenshot:
-
-![Screenshot Persiapan](screenshot/persiapan.png)
 
 ---
 
@@ -30,9 +27,6 @@ File ini berisi contoh dasar OOP di PHP: pembuatan class, property, method, dan 
 * Membuat dua objek: `$a` dan `$b`.
 * Mengubah dan menampilkan warna masing-masing objek.
 
-### Screenshot:
-
-![Screenshot mobil.php](screenshot/mobil.png)
 
 ---
 
@@ -47,10 +41,6 @@ Class ini berfungsi menghasilkan form input sederhana secara dinamis.
 * Method `displayForm()` menampilkan form.
 * File ini bersifat library dan tidak dieksekusi langsung.
 
-### Screenshot:
-
-![Screenshot form.php](screenshot/form.png)
-
 ---
 
 ## 4. Membuat File `form_input.php`
@@ -63,10 +53,6 @@ File ini menggunakan class `Form` dari `form.php`.
 * Membuat instance: `$form = new Form("", "Input Form")`.
 * Menambahkan field: Nim, Nama, Alamat.
 * Menampilkan form HTML.
-
-### Screenshot:
-
-![Screenshot form\_input.php](screenshot/form_input.png)
 
 ---
 
@@ -83,10 +69,6 @@ File ini merupakan class library untuk koneksi database dan operasi CRUD sederha
 * Method `update()` untuk memperbarui data.
 * Method `delete()` untuk menghapus data.
 
-### Screenshot:
-
-![Screenshot database.php](screenshot/database.png)
-
 ---
 
 ## 6. Implementasi Modularisasi
@@ -98,10 +80,6 @@ Pada tahap ini, semua komponen dipisah menjadi beberapa file:
 * **database.php** → Library koneksi database.
 * **form_input.php** → Implementasi pemanggilan class `Form`.
 
-### Screenshot:
-
-![Screenshot Struktur Folder](screenshot/struktur.png)
-
 ---
 
 ## 7. Repository GitHub
@@ -110,9 +88,6 @@ Semua file, screenshot, dan README.md kemudian di-commit dan push ke repository 
 
 **Lab10Web**
 
-### Screenshot:
-
-![Screenshot GitHub](screenshot/github.png)
 
 ---
 
