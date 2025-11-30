@@ -1,6 +1,6 @@
-# Lab10Web – Praktikum 10 PHP OOP
-
-Repositori ini berisi hasil pengerjaan **Praktikum 10 – PHP OOP**, meliputi pembuatan class sederhana, class library (Form), modularisasi, serta database connection.
+Anthonius Dale Fernando
+TI 24 A1
+312410162
 
 ---
 
@@ -142,4 +142,4 @@ lab10_php_oop/
 
 ---
 
-**Catatan:** Screenshot pada README ini berupa placeholder (`/screenshot/...`). Silakan ganti dengan screenshot asli dari hasil praktikum Anda.
+
