@@ -117,4 +117,31 @@ lab10_php_oop/
 
 ---
 
+## Screenshoot Database
+
+<img width="849" height="895" alt="image" src="https://github.com/user-attachments/assets/bcdee3b4-a181-46a9-af99-4bd15361af2a" />
+<img width="823" height="836" alt="image" src="https://github.com/user-attachments/assets/1ec4b406-f3f4-4cae-a371-ffdc9515b736" />
+<img width="840" height="507" alt="image" src="https://github.com/user-attachments/assets/36ddf3a7-905c-4408-a9e3-71267380a089" />
+
+## Screenshoot Form Input
+<img width="845" height="648" alt="image" src="https://github.com/user-attachments/assets/09db21d1-9f50-4148-8937-a4dbc10c5574" />
+
+## Sceeenshoot Form
+<img width="1171" height="858" alt="image" src="https://github.com/user-attachments/assets/cf0f54e4-0069-4365-a876-c3654e34b34e" />
+<img width="878" height="259" alt="image" src="https://github.com/user-attachments/assets/db43fc5f-d785-4762-9717-d91c906109d0" />
+
+## Screenshoot Mobil
+<img width="1127" height="888" alt="image" src="https://github.com/user-attachments/assets/8a08dc62-bdbe-45ea-bbd6-b64e3794fa7e" />
+<img width="635" height="380" alt="image" src="https://github.com/user-attachments/assets/b4f576af-d6bf-4a29-be81-99218c68cde7" />
+
+
+
+
+
+
+
+
+
+
+
 
